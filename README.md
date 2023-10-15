@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Damian Chlebda</h1>
 <h3 align="center">I'm a SysAdmin based in Germany with a deep passion for computer science. I specialize in server management and possess extensive experience in DDoS mitigation</h3>
 
+[![An image of @mody404's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mody404)](https://holopin.io/@mody404)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mody404&label=Profile%20views&color=0e75b6&style=flat" alt="mody404" /> </p>
 
 <p align="left"> <a href="https://twitter.com/rptor2" target="blank"><img src="https://img.shields.io/twitter/follow/rptor2?logo=twitter&style=for-the-badge" alt="rptor2" /></a> </p>
